@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Hola",
+      "empresa": "Adios",
+      "email": "GatoKawaii115@gmail.com",
+      "telefono": "633406951",
+      "notas": "qweqweq",
+      "id": 1
+    },
+    {
+      "nombre": "Hola",
+      "empresa": "aaaa",
+      "email": "GatoKawaii115@gmail.com",
+      "telefono": "633406951",
+      "notas": "qweqweq",
+      "id": 2
+    },
+    {
+      "nombre": "Hola",
+      "empresa": "aaaa",
+      "email": "GatoKawaii115@gmail.com",
+      "telefono": "633406951",
+      "notas": "qweqweq",
+      "id": 3
+    },
+    {
+      "nombre": "Hola",
+      "empresa": "Adios",
+      "email": "GatoKawaii115@gmail.com",
+      "telefono": "633406951",
+      "notas": "1231231444444",
+      "id": 4
+    },
+    {
+      "nombre": "Roman Pinto Carrion",
+      "empresa": "La de los Carriones",
+      "email": "SomosCarriones@gmail.com",
+      "telefono": "614528562",
+      "notas": "Muchas patatas",
+      "id": 5
+    }
+  ]
+}
